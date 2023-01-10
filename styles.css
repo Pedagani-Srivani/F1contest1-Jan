@@ -1,0 +1,61 @@
+.header{
+    position: absolute;
+
+width: 1540.51px;
+height: 613.54px;
+left: 89px;
+top: 10px;
+}
+.header .heading{
+    color:black;
+    text-decoration: underline;
+}
+.header a{
+    color: black;
+    text-decoration: underline;
+}
+.main {
+    position: absolute;
+width: 962px;
+height: 77px;
+left: 89px;
+top: 200px;
+}
+.Images a{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 60px;
+text-decoration-line: underline;
+
+color: #000000;
+}
+.main .MoreImages a{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 50;
+font-size: 15px;
+line-height: 30px;
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+.features{
+    position: absolute;
+width: 1623px;
+height: 469px;
+left: 89px;
+top:600px;
+}
+.features h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 50;
+font-size: 30px;
+line-height: 26px;
+text-decoration-line: underline;
+
+color: #000000;
+}
